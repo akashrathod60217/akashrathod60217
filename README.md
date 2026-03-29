@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Akash Rathod 👋
 
-<!--
-**akashrathod60217/akashrathod60217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud Engineer | AWS | Linux | CCNA  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- AWS (EC2, S3, IAM, VPC)
+- Linux Administration
+- Networking (TCP/IP, DNS, DHCP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- AWS Static Website Hosting
+- Linux Server Setup
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/akash-rathod-b787b0387/
