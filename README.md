@@ -1,15 +1,14 @@
-# Hi, I'm Akash Rathod 👋
+# Hi, I'm Akash 👋
 
-Aspiring Cloud Engineer | AWS | Linux | CCNA  
+🚀 Aspiring DevOps / Cloud Engineer  
+☁️ AWS | Linux | Networking  
 
-## 🔧 Skills
-- AWS (EC2, S3, IAM, VPC)
-- Linux Administration
-- Networking (TCP/IP, DNS, DHCP)
+## 🛠️ Skills
+AWS, Linux, Git, Networking
 
-## 🚀 Projects
+## 🚀🔥 Projects
 - AWS Static Website Hosting
-- Linux Server Setup
+- AWS Highly Available WordPress Deployment
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/akash-rathod-b787b0387/
