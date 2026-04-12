@@ -9,13 +9,22 @@
 
 🚀 Aspiring DevOps / Cloud Engineer  
 ☁️ AWS | Linux | Networking  
+💡 Passionate about building scalable and reliable cloud infrastructure  
 
 ## 🛠️ Skills
-AWS, Linux, Git, Networking
+- AWS (EC2, RDS, S3, CloudFront, IAM)
+- Linux
+- Git & GitHub
+- Networking Basics
 
-## 🚀🔥 Projects
-- AWS Static Website Hosting
-- AWS Highly Available WordPress Deployment
+## 🚀 Projects
+- [AWS Static Website Hosting](https://github.com/akashrathod60217/aws-static-website-hosting)
+- [AWS Highly Available WordPress Deployment](https://github.com/akashrathod60217/aws-wordpress-high-availability-project)
+
+💡 These projects demonstrate real-world cloud architecture and deployment skills
+
+## 📌 Current Focus
+- Learning DevOps tools and CI/CD pipelines
 
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/akash-rathod-b787b0387/
+- [LinkedIn Profile](https://www.linkedin.com/in/akash-rathod-b787b0387/)
