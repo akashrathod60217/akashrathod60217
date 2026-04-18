@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-🚀 Aspiring DevOps / Cloud Engineer  
+🚀 Aspiring Cloud Engineer  
 ☁️ AWS | Linux | Networking  
 💡 Passionate about building scalable and reliable cloud infrastructure  
 
