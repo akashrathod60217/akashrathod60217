@@ -2,10 +2,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Linux](https://img.shields.io/badge/Linux-OS-yellow)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-purple)
-![Project](https://img.shields.io/badge/Project-DevOps-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 🚀 Aspiring DevOps / Cloud Engineer  
